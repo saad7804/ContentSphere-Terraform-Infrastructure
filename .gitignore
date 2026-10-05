@@ -1,0 +1,16 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+terraform.tfvars
+
+cdk/node_modules/
+cdk/cdk.out/
+cdk/.cache/
+
+.env
+*.log
+
+.DS_Store
+.vscode/
+.idea/
