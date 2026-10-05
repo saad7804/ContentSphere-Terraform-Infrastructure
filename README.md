@@ -41,7 +41,6 @@ The main objectives of this project are:
 
 The Terraform configuration creates the following architecture:
 
-```text
                          Internet
                             |
                     Internet Gateway
@@ -59,7 +58,9 @@ The Terraform configuration creates the following architecture:
                                           |
                                    Elastic IP
                                           |
-                                      Website
+
+                                     Website
+
 4. Terraform Modules
 
 The Terraform project uses reusable modules.
@@ -497,4 +498,5 @@ The project also demonstrates remote state management, infrastructure drift dete
 CloudFormation and AWS CDK were additionally explored to understand alternative AWS infrastructure automation approaches.
 
 The completed project provides practical experience with AWS infrastructure provisioning and DevOps-oriented Infrastructure as Code practices.
+
 
