@@ -1,15 +1,5 @@
 # ContentSphere – Infrastructure as Code Deployment and Automation using Terraform
 
-## Student Information
-
-- Student Name: Saad Momin
-- Batch Code: DR501
-- Project: ContentSphere
-- AWS Region: ap-south-1
-- Environment: dev
-
----
-
 ## 1. Project Overview
 
 ContentSphere is an Infrastructure as Code (IaC) project that demonstrates how cloud infrastructure can be provisioned, managed, and reproduced using Terraform.
